@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-functions",
+  "name": "lambda-functions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "netlify-lambda serve functions"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sachin-chaurasiya",
   "license": "ISC",
   "dependencies": {
     "netlify-lambda": "^2.0.15"
