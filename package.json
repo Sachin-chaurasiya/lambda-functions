@@ -1,0 +1,16 @@
+{
+  "name": "aws-lambda-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "netlify-lambda build functions",
+    "start": "netlify-lambda serve functions"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-lambda": "^2.0.15"
+  }
+}
