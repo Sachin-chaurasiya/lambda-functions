@@ -1,1 +1,1 @@
-## AWS lambda function hosted on netlify
+## AWS lambda functions hosted on netlify
